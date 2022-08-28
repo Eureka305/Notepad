@@ -1,0 +1,1 @@
+duble click Notepad.jar
